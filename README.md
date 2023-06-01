@@ -1,2 +1,2 @@
-# Practice_repo
-This repo is just for practice 
+# Practice_repository
+This reposatory is just for practice 
